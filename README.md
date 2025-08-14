@@ -1,6 +1,5 @@
 This is a fork of the original repository that I contributed to. To view all the contributers, refer to this base link: https://github.com/maharishi2019/pitch-in-master. The following is the description from the ReadME file:
 
-#
 
 # pitch-in-master
 ![](static/images/logo.png)
